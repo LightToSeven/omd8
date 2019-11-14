@@ -321,7 +321,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	// Layer_3
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f("#F2F2F2").s().p("Ak0IdIAAw4IJbAAIAACzImCAAIAAD9IFqAAIAACyIlqAAIAAEjIGRAAIAACzg");
-	this.shape.setTransform(784.95,166.3);
+	this.shape.setTransform(286.8,340.35);
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
 
@@ -3395,15 +3395,15 @@ p.nominalBounds = new cjs.Rectangle(0,-3.5,15,34.5);
 
 	this.instance_2 = new lib.всвсвсммм();
 	this.instance_2.parent = this;
-	this.instance_2.setTransform(818.1,102.55,1,1,0,0,0,14.6,11.5);
+	this.instance_2.setTransform(319.95,276.6,1,1,0,0,0,14.6,11.5);
 
 	this.instance_3 = new lib.рисорвисорв();
 	this.instance_3.parent = this;
-	this.instance_3.setTransform(644.15,125.35,1,1,0,0,0,14.3,11.2);
+	this.instance_3.setTransform(146,299.4,1,1,0,0,0,14.3,11.2);
 
 	this.instance_4 = new lib.амамамама();
 	this.instance_4.parent = this;
-	this.instance_4.setTransform(623.15,187.85,1,1,0,0,0,35.4,47.6);
+	this.instance_4.setTransform(125,361.9,1,1,0,0,0,35.4,47.6);
 
 	this.instance_5 = new lib.ddcecede();
 	this.instance_5.parent = this;
@@ -3411,7 +3411,7 @@ p.nominalBounds = new cjs.Rectangle(0,-3.5,15,34.5);
 
 	this.instance_6 = new lib.чвсвсвсвс();
 	this.instance_6.parent = this;
-	this.instance_6.setTransform(680.25,178.85,1,1,0,0,0,2.1,9.4);
+	this.instance_6.setTransform(182.1,352.9,1,1,0,0,0,2.1,9.4);
 
 	this.instance_7 = new lib.вамамыыыы();
 	this.instance_7.parent = this;
@@ -3439,31 +3439,31 @@ p.nominalBounds = new cjs.Rectangle(0,-3.5,15,34.5);
 
 	this.instance_13 = new lib.vrvfcc();
 	this.instance_13.parent = this;
-	this.instance_13.setTransform(769.2,214.65,1,1,0,0,0,2.6,11.3);
+	this.instance_13.setTransform(271.05,388.7,1,1,0,0,0,2.6,11.3);
 
 	this.instance_14 = new lib.EDEDEDFFFG();
 	this.instance_14.parent = this;
-	this.instance_14.setTransform(792.15,163.2,1,1,0,0,0,7.4,11);
+	this.instance_14.setTransform(294,337.25,1,1,0,0,0,7.4,11);
 
 	this.instance_15 = new lib.EDEDEDED();
 	this.instance_15.parent = this;
-	this.instance_15.setTransform(586.1,134.65,1,1,0,0,0,7.5,11);
+	this.instance_15.setTransform(87.95,308.7,1,1,0,0,0,7.5,11);
 
 	this.instance_16 = new lib.EDEDEDE();
 	this.instance_16.parent = this;
-	this.instance_16.setTransform(715.45,109.5,1,1,0,0,0,7.5,11);
+	this.instance_16.setTransform(217.3,283.55,1,1,0,0,0,7.5,11);
 
 	this.instance_17 = new lib.ddcecede();
 	this.instance_17.parent = this;
-	this.instance_17.setTransform(981.9,180.85,1,1,0,0,0,2.2,9.3);
+	this.instance_17.setTransform(483.75,354.9,1,1,0,0,0,2.2,9.3);
 
 	this.instance_18 = new lib.dccrvrc();
 	this.instance_18.parent = this;
-	this.instance_18.setTransform(971.2,100.05,1,1,0,0,0,7.8,11.5);
+	this.instance_18.setTransform(473.05,274.1,1,1,0,0,0,7.8,11.5);
 
 	this.instance_19 = new lib.kjbdckjbdc();
 	this.instance_19.parent = this;
-	this.instance_19.setTransform(884.25,88.5,1,1,0,0,0,7.8,11.5);
+	this.instance_19.setTransform(386.1,262.55,1,1,0,0,0,7.8,11.5);
 
 	this.instance_20 = new lib.hvgjhvjhv();
 	this.instance_20.parent = this;
@@ -3475,11 +3475,11 @@ p.nominalBounds = new cjs.Rectangle(0,-3.5,15,34.5);
 
 	this.instance_22 = new lib.jump();
 	this.instance_22.parent = this;
-	this.instance_22.setTransform(848.6,175.9,1,1,0,0,0,45,58.5);
+	this.instance_22.setTransform(350.45,349.95,1,1,0,0,0,45,58.5);
 
 	this.instance_23 = new lib.pers8_anim();
 	this.instance_23.parent = this;
-	this.instance_23.setTransform(932.6,148.65,1,1,0,0,0,32.2,45.5);
+	this.instance_23.setTransform(434.45,322.7,1,1,0,0,0,32.2,45.5);
 
 	this.instance_24 = new lib.pesr4anim();
 	this.instance_24.parent = this;
@@ -3491,7 +3491,7 @@ p.nominalBounds = new cjs.Rectangle(0,-3.5,15,34.5);
 
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f("#F2F2F2").s().p("AlgIdIAAw4IFsAAQBBgBA6AOQA5AOApAgQApAfAXA2QAWA1AABMQAABZgpA+QgoA+hSAYIAAADQBbAMA1BAQA1BCAABsQAABBgRA4QgRA5goAsQgpArg/AZQhAAbhgAAgAiGF8IBVAAQBOAAAwgjQAxgjAAhdQAAgvgNggQgNgggWgRQgWgUgegHQgdgHglgBIheAAgAiGhgIA+AAQBaAAAqggQApghAAhNQAAhOglgfQgngghQAAIhPAAg");
-	this.shape.setTransform(702.075,166.3);
+	this.shape.setTransform(203.925,340.35);
 
 	this.instance_26 = new lib.Group_21();
 	this.instance_26.parent = this;
@@ -3499,27 +3499,27 @@ p.nominalBounds = new cjs.Rectangle(0,-3.5,15,34.5);
 
 	this.instance_27 = new lib.Group_22();
 	this.instance_27.parent = this;
-	this.instance_27.setTransform(964.1,236.2,1,1,0,0,0,14.5,4);
+	this.instance_27.setTransform(465.95,410.25,1,1,0,0,0,14.5,4);
 
 	this.instance_28 = new lib.Group_23();
 	this.instance_28.parent = this;
-	this.instance_28.setTransform(900.25,236.2,1,1,0,0,0,14.5,4);
+	this.instance_28.setTransform(402.1,410.25,1,1,0,0,0,14.5,4);
 
 	this.instance_29 = new lib.Group_24();
 	this.instance_29.parent = this;
-	this.instance_29.setTransform(851.55,236.2,1,1,0,0,0,23.5,4);
+	this.instance_29.setTransform(353.4,410.25,1,1,0,0,0,23.5,4);
 
 	this.instance_30 = new lib.Group_25();
 	this.instance_30.parent = this;
-	this.instance_30.setTransform(785.15,236.2,1,1,0,0,0,33,4);
+	this.instance_30.setTransform(287,410.25,1,1,0,0,0,33,4);
 
 	this.instance_31 = new lib.Group_26();
 	this.instance_31.parent = this;
-	this.instance_31.setTransform(702.8,236.2,1,1,0,0,0,39,4);
+	this.instance_31.setTransform(204.65,410.25,1,1,0,0,0,39,4);
 
 	this.instance_32 = new lib.Group_27();
 	this.instance_32.parent = this;
-	this.instance_32.setTransform(618.9,236.2,1,1,0,0,0,30.5,4);
+	this.instance_32.setTransform(120.75,410.25,1,1,0,0,0,30.5,4);
 
 	this.instance_33 = new lib.Group_28();
 	this.instance_33.parent = this;
@@ -3531,15 +3531,15 @@ p.nominalBounds = new cjs.Rectangle(0,-3.5,15,34.5);
 
 	this.shape_1 = new cjs.Shape();
 	this.shape_1.graphics.f("#F2F2F2").s().p("ADCIdIgyjlIkfAAIgyDlIjjAAIEew4IENAAIEeQ4gAhpCGIDTAAIhpnlIgCAAg");
-	this.shape_1.setTransform(931.675,166.3);
+	this.shape_1.setTransform(433.525,340.35);
 
 	this.shape_2 = new cjs.Shape();
 	this.shape_2.graphics.f("#F2F2F2").s().p("AhsIdIAAuFIjsAAIAAizIKxAAIAACzIjsAAIAAOFg");
-	this.shape_2.setTransform(858.575,166.3);
+	this.shape_2.setTransform(360.425,340.35);
 
 	this.shape_3 = new cjs.Shape();
 	this.shape_3.graphics.f("#F2F2F2").s().p("Ai2IHQhJgogmhJQgnhJgMhnQgKhkgBiAQABh8AKhlQAMhoAnhKQAmhKBJgqQBJgpB5AAQB1AABDAmQBDAlAiA7QAiA6AHBDQAJBCgBA9IjaAAQABh3gcg1Qgdg2hIAAQgoAAgcAWQgaAWgQAxQgOAygHBPQgFBPgBByQABB9AHBKQAJBMARApQARApAbAPQAaAOAjAAQAcAAAagJQAYgKATgeQASgdAKg2QALg4AAhWIDZAAQAABagNBOQgOBOglA6QgmA7hCAhQhEAihrAAQh5AAhJgog");
-	this.shape_3.setTransform(615.8,166.075);
+	this.shape_3.setTransform(117.65,340.125);
 
 	this.shape_4 = new cjs.Shape();
 	this.shape_4.graphics.f("#F2F2F2").s().p("AkfIdIAAw4II/AAIAACzIllAAIAAOFg");
@@ -3712,7 +3712,7 @@ p.nominalBounds = new cjs.Rectangle(-2.2,0,59.2,96.5);
 	// Layer_2
 	this.instance = new lib.pres6anim();
 	this.instance.parent = this;
-	this.instance.setTransform(734.25,236.2,1,1,0,-0.327,0,28.5,96.4);
+	this.instance.setTransform(236.1,410.25,1,1,0,-0.327,0,28.5,96.4);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
@@ -3720,7 +3720,7 @@ p.nominalBounds = new cjs.Rectangle(-2.2,0,59.2,96.5);
 
 
 // stage content:
-(lib.logo = function(mode,startPosition,loop) {
+(lib.logo_square = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	this.___GetDepth___ = function(obj) {
@@ -3756,7 +3756,7 @@ p.nominalBounds = new cjs.Rectangle(-2.2,0,59.2,96.5);
 	this.Isolation_Mode = new lib.Scene_1_Isolation_Mode();
 	this.Isolation_Mode.name = "Isolation_Mode";
 	this.Isolation_Mode.parent = this;
-	this.Isolation_Mode.setTransform(500.7,134.2,1,1,0,0,0,500.7,134.2);
+	this.Isolation_Mode.setTransform(274.2,220.8,1,1,0,0,0,274.2,220.8);
 	this.Isolation_Mode.depth = 0;
 	this.Isolation_Mode.isAttachedToCamera = 0
 	this.Isolation_Mode.isAttachedToMask = 0
@@ -3770,7 +3770,7 @@ p.nominalBounds = new cjs.Rectangle(-2.2,0,59.2,96.5);
 	this.Layer_2 = new lib.Scene_1_Layer_2();
 	this.Layer_2.name = "Layer_2";
 	this.Layer_2.parent = this;
-	this.Layer_2.setTransform(734,188,1,1,0,0,0,734,188);
+	this.Layer_2.setTransform(235.8,362.1,1,1,0,0,0,235.8,362.1);
 	this.Layer_2.depth = 0;
 	this.Layer_2.isAttachedToCamera = 0
 	this.Layer_2.isAttachedToMask = 0
@@ -3784,7 +3784,7 @@ p.nominalBounds = new cjs.Rectangle(-2.2,0,59.2,96.5);
 	this.Layer_3 = new lib.Scene_1_Layer_3();
 	this.Layer_3.name = "Layer_3";
 	this.Layer_3.parent = this;
-	this.Layer_3.setTransform(785,166.3,1,1,0,0,0,785,166.3);
+	this.Layer_3.setTransform(286.8,340.4,1,1,0,0,0,286.8,340.4);
 	this.Layer_3.depth = 0;
 	this.Layer_3.isAttachedToCamera = 0
 	this.Layer_3.isAttachedToMask = 0
@@ -3823,25 +3823,25 @@ p.nominalBounds = new cjs.Rectangle(-2.2,0,59.2,96.5);
 	this.timeline.addTween(cjs.Tween.get(this.Layer_5).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(524.4,158.3,459.70000000000005,82.89999999999998);
+p.nominalBounds = new cjs.Rectangle(303.4,278.8,227.80000000000007,135.5);
 // library properties:
 lib.properties = {
 	id: '8CA27DB4EDA34BA38E960F76278CE701',
-	width: 1014,
-	height: 262,
+	width: 572,
+	height: 503,
 	fps: 24,
 	color: "#FFFFFF",
 	opacity: 0.00,
 	manifest: [
-		{src:"img/Group_21_0.png", id:"Group_21_0"},
-		{src:"img/Group_22_0.png", id:"Group_22_0"},
-		{src:"img/Group_23_0.png", id:"Group_23_0"},
-		{src:"img/Group_24_0.png", id:"Group_24_0"},
-		{src:"img/Group_25_0.png", id:"Group_25_0"},
-		{src:"img/Group_26_0.png", id:"Group_26_0"},
-		{src:"img/Group_27_0.png", id:"Group_27_0"},
-		{src:"img/Group_28_0.png", id:"Group_28_0"},
-		{src:"img/Group_29_0.png", id:"Group_29_0"}
+		{src:"img/logo/Group_21_0.png", id:"Group_21_0"},
+		{src:"img/logo/Group_22_0.png", id:"Group_22_0"},
+		{src:"img/logo/Group_23_0.png", id:"Group_23_0"},
+		{src:"img/logo/Group_24_0.png", id:"Group_24_0"},
+		{src:"img/logo/Group_25_0.png", id:"Group_25_0"},
+		{src:"img/logo/Group_26_0.png", id:"Group_26_0"},
+		{src:"img/logo/Group_27_0.png", id:"Group_27_0"},
+		{src:"img/logo/Group_28_0.png", id:"Group_28_0"},
+		{src:"img/logo/Group_29_0.png", id:"Group_29_0"}
 	],
 	preloads: []
 };

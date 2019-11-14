@@ -76,6 +76,9 @@
     }
   }
 }
+.mobal{
+  display: none;
+}
 .footer{
   position: relative;
   z-index: 10;
@@ -136,7 +139,7 @@
     max-width: 1014px;
     display: flex;
     justify-content: center;
-    #animation_container{
+    #animation_container,#animation_container2{
       position: relative;
       width: 100% !important;
       height: auto!important;
@@ -144,9 +147,10 @@
     canvas{
       width: 100% !important;
       height: auto!important;
+      max-height: 262px;
       position: relative!important;
     }
-    #dom_overlay_container{
+    #dom_overlay_container,#dom_overlay_container2{
       width: 100% !important;
       height: auto!important;
     }
