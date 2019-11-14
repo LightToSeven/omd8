@@ -1,0 +1,24 @@
+mixin serviceItem(imgSource, text, date)
+    .service-item
+        .service-img
+            img(src= imgSource)
+        .service-txt
+            p= text
+        p.service-date= date
+
+mixin checkbox(even)
+    .members-input
+        input(type='checkbox' name= even id= even)
+        label(for= even) Галузь
+mixin checkbox2(even)
+    .members-input
+        input(type='checkbox' name= even id= even)
+        label(for= even) Регіон
+mixin radioCommitte(id, val, text)
+    .registration__radio_elem
+        input(type='radio' name='registration_committee' id= id value= val)
+        label(for= id)= text
+mixin radioSingInSup(id, val, text)
+    .registration__radio_elem
+        input(type='radio' name='registration_singin_sup' id= id value= val)
+        label(for= id)= text
