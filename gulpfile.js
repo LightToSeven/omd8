@@ -31,6 +31,7 @@ var paths = {
             'bower_components/jquery-validation/dist/additional-methods.min.js',
             'bower_components/waypoints/lib/jquery.waypoints.min.js',
             'app/vendor/js/slick.min.js',
+            'app/vendor/js/createjs-2015.11.26.min.js',
             'app/vendor/js/jquery.maskedinput.min.js',
         ],
     },

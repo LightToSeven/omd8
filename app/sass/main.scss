@@ -130,8 +130,26 @@
     }
   }
   &__image{
-    margin-top: -52px;
+    margin-top: -64px;
     margin-bottom: 36px;
+    width: 100%;
+    max-width: 1014px;
+    display: flex;
+    justify-content: center;
+    #animation_container{
+      position: relative;
+      width: 100% !important;
+      height: auto!important;
+    }
+    canvas{
+      width: 100% !important;
+      height: auto!important;
+      position: relative!important;
+    }
+    #dom_overlay_container{
+      width: 100% !important;
+      height: auto!important;
+    }
     img{
       max-width: 100%;
     }

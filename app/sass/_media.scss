@@ -53,6 +53,9 @@
 }
 
 @media only screen and (max-width: 980px) {
+  .home-page__image {
+    margin-top: -54px;
+  }
   .header__menu ul li {
     margin: 0px 10px;
   }
